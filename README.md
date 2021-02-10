@@ -9,6 +9,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/JelteMX/mendix-tree-table)
 [![DeepScan grade](https://deepscan.io/api/teams/7221/projects/9345/branches/120491/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=7221&pid=9345&bid=120491)
 [![Available](https://img.shields.io/badge/Test%20Project-available-green.svg)](https://github.com/JelteMX/widget-test-projects)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJelteMX%2Fmendix-tree-table.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJelteMX%2Fmendix-tree-table?ref=badge_shield)
 
 # Mendix Tree Table
 
@@ -138,3 +139,6 @@ Please report your issues [here](https://github.com/JelteMX/mendix-tree-table/is
 ## License
 
 Apache 2
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJelteMX%2Fmendix-tree-table.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJelteMX%2Fmendix-tree-table?ref=badge_large)
